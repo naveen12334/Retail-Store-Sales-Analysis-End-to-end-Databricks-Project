@@ -178,11 +178,9 @@ The dashboard can be used to analyze:
 | **Orders** | How many orders are being generated? |
 | **Quantity** | What is the sales volume? |
 | **Products** | Which products contribute most to revenue? |
-| **Categories** | Which product categories perform best? |
 | **Customers** | Who are the key customer segments? |
 | **Geography** | Which states/cities generate the most sales? |
 | **Time Trends** | How does performance change by month/year? |
-| **Loyalty** | How do loyalty points relate to customer activity? |
 
 ---
 
@@ -269,22 +267,6 @@ This project provided hands-on experience with:
 
 ---
 
-## 🚀 Future Enhancements
-
-Potential improvements to make the project more production-ready:
-
-- Incremental data ingestion
-- Automated data quality checks
-- Databricks Workflows / Jobs
-- Parameterized pipelines
-- Slowly Changing Dimensions (SCD)
-- Delta Lake optimization
-- Unity Catalog governance
-- Git-based development and CI/CD
-- Pipeline monitoring and alerting
-- Automated Power BI dataset refresh
-
----
 
 ## 📈 Project Outcome
 
